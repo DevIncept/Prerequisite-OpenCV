@@ -9,4 +9,4 @@
 >We will be building 7 mini-projects during this course.
 
 
-![Structure](extras/opencv)
+![Structure](extras/Opencv structure.pdf)
