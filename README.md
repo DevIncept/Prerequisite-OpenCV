@@ -8,10 +8,11 @@
 
 >We will be building 7 mini-projects during this course.
 
+&nbsp;
 
+&nbsp;
 
-
-
+&nbsp;
 
 
 ![Structure](extras/opencv_structure.png)
