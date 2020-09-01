@@ -125,9 +125,9 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 
 [Devincept Website](https://devincept.tech/)
 
-![DevIncept logo image](extras/logo.png)
+![DevIncept logo image](extras/logo.gif)
 
-[![DevIncept logo image link](extras/logo.png)](https://devincept.tech/)
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
 ```
 
@@ -135,8 +135,8 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 
 [Devincept Website](https://devincept.tech/)
 
-![DevIncept logo image](extras/logo.png)
+![DevIncept logo image](extras/logo.gif)
 
-[![DevIncept logo image link](extras/logo.png)](https://devincept.tech/)
+[![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
       
