@@ -15,11 +15,11 @@ Markdown is a lightweight markup language with plain text formatting syntax. Wha
 * **Flexible:** Output documents to a wide array of formats like, convert to HTML , rich text for sending emails or any number of other proprietary formats.
 
 
-> We will be using markdown in almost every module's assignment, so it is an important thing learn here if you don't know already.
+> We will be using markdown in almost every module's assignment, so it is an important thing to learn here if you don't know already.
 
 ## Basic working in Markdown
 
-### <u>1. Heading</u>
+### 1. Heading
 
 Use # for headings. You can use this like in HTML for H1, H2 etc.
 
@@ -186,9 +186,9 @@ print (c)
 
 <hr>
 
-### 6. Table
+### 7. Table
 
-Making a table is an easy task in markdown. You can do that using `|` and `-` . 
+Till now we got to know some important  
 
 
 **<ins>Input:</ins>**
@@ -208,4 +208,30 @@ Making a table is an easy task in markdown. You can do that using `|` and `-` .
 |---------|---------|----------|
 |  Data   |  Data   |  Data    |
 |  Data   |  Data   |   Data   |
+      
+### 6. The power of HTML
+
+We have seen the basic features of markdown till now, but superpower of markdown is, You can directly use HTML in it.
+
+> Somw times it becomes a little difficult to do some complex thigs in markdown, so using HTML that time can make it work.
+
+**<ins>Input:</ins>**
+
+
+```md
+Lists or table inside the table can be implemented using HTML
+
+|Heading 1|Heading 2| Heading 3                                                                  |
+|---------|---------|----------------------------------------------------------------------------|
+|  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>                    |
+|  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |
+
+```
+
+**<ins>Output:</ins>**
+
+|Heading 1|Heading 2| Heading 3|
+|---------|---------|----------|
+|  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>    |
+|  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |
       
