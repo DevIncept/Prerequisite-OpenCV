@@ -270,9 +270,31 @@ Use anywhere just like
 
 <hr>
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 These were the most used Markdown features. These will help you for you assignment in this module as well as in further program, and without markdown your repository on github is just a code-file, start using it now :wink: 
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 Thanks for Reading!!!
+
 Go back to [Prerequisite-OpenCV](https://github.com/DevIncept/Prerequisite-OpenCV)
