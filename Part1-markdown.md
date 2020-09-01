@@ -272,18 +272,12 @@ Use anywhere just like
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-
 These were the most used Markdown features. These will help you for you assignment in this module as well as in further program, and without markdown your repository on github is just a code-file, start using it now :wink: 
 
 &nbsp;
 
 &nbsp;
 
-&nbsp;
 
 Thanks for Reading!!!
 
