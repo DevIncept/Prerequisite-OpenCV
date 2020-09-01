@@ -186,7 +186,7 @@ print (c)
 
 <hr>
 
-### 7. Table
+### 6. Table
 
 Till now we got to know some important  
 
@@ -209,7 +209,7 @@ Till now we got to know some important
 |  Data   |  Data   |  Data    |
 |  Data   |  Data   |   Data   |
       
-### 6. The power of HTML
+### 7. The power of HTML
 
 We have seen the basic features of markdown till now, but superpower of markdown is, You can directly use HTML in it.
 
@@ -235,3 +235,5 @@ Lists or table inside the table can be implemented using HTML
 |  Data   |  Data   |  Data<ul><li>Data part 1 </li><li>Data part 2</li></ul>    |
 |  Data   |  Data   |   <table> <th>h1</th><th>h2</th><tr><td>d1</td><td>d2</td></tr></table>    |
       
+
+These were the most used Markdown features. These will help you for you assignment in this module as well as in further program, and without markdown your repository on github is just a code-file, start using it now :wink: 
