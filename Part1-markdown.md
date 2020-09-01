@@ -139,4 +139,46 @@ Use `[text](url)` for hyperlinks and, `![text](path/url)` for image.
 
 [![DevIncept logo image link](extras/logo.gif)](https://devincept.tech/)
 
-      
+   
+
+<hr>
+
+### 5. Coding and notes
+
+* Use ` for liner codes or highlight.
+* Use ``` for multiline code.
+* Use > to give a note.
+
+>  You can also use language of code to make the multiline code more realistic, exp: ```python
+
+**<ins>Input:</ins>**
+
+```md
+    `simple code or highlight`
+
+    > Give a note like this
+
+    ```python
+    #simple python multiline code
+    a=input()
+    c=a
+    print (c)
+    ```
+```
+
+
+
+**<ins>Output:</ins>**
+
+`simple code or highlight`
+
+
+> Give a note like this
+
+
+```python
+#simple python multiline code
+a=input()
+c=a
+print (c)
+```
