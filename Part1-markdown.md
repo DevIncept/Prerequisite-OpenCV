@@ -182,3 +182,30 @@ a=input()
 c=a
 print (c)
 ```
+
+
+<hr>
+
+### 6. Table
+
+Making a table is an easy task in markdown. You can do that using `|` and `-` . 
+
+
+**<ins>Input:</ins>**
+
+```md
+
+|Heading 1|Heading 2| Heading 3|
+|---------|---------|----------|
+|  Data   |  Data   |  Data    |
+|  Data   |  Data   |   Data   |
+
+```
+
+**<ins>Output:</ins>**
+
+|Heading 1|Heading 2| Heading 3|
+|---------|---------|----------|
+|  Data   |  Data   |  Data    |
+|  Data   |  Data   |   Data   |
+      
