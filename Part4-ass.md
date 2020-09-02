@@ -12,7 +12,7 @@ Steps for the same:
    ```You found a secret! {username}/{username} is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile. Make sure it’s public and initialize it with a README to get started.```
 3. So as said initialize the repository with a Readme and make it public.    
 
-4. Now you will see, Github has already gave a template for this repository, and you can try to edit it, and try to add more features to it like providing links of your social media accounts.
+4. Now you will see, Github has already gave a template for this readme.md in repository, and you can try to edit it, and try to add more features to it like providing links of your social media accounts.
 
 5. After editing save it, and go to your main profile, you will see that readme with your profile like this one [here.](https://github.com/arpit-dwivedi)
 
