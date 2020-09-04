@@ -68,3 +68,20 @@
 8. [Part7: Installing and working on Pyzml](Part7-pyzml.md)
 9. [Part8: Understanding Client-Server architecture with Pyzml for OpenCV models](Part8-pyzml-ML.md)
 10. [Part9: Project:Face recognition application with Pyzml](Part9-P6.md)
+11. [Part10: Competetion-Going Deeper in Facial recognition](Part10-article.md)
+
+# Module 3
+
+> 1 Competetion(Portfolio), 2 Projects 
+
+1. [Part1: Car and Pedestrian Detection](Part1-P7.md)
+2. [Part1: Car and Pedestrian Detection Notebook](Part1-P7.ipynb)
+3. [Part2: Car and Pedestrian Detection application with Flask](Part2-P7.md)
+4. [Part3: Motion Analysis](Part3-motion.md)
+5. [Part4: Introduction to opticalflow](Part4-opticalflow.md)
+6. [Part5: Project-Object Tracking](Part1-P8.md)
+
+>Last stage
+1. [Part6: Summing it all up](Part6-final.md)
+2. [Portfolio making and hosting](Part7-port.md)
+
