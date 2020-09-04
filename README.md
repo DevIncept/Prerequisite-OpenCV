@@ -6,7 +6,7 @@
 
 **Requirments:** Basic programming, High school level maths, A webcam, Python, OpenCV
 
->We will be building 7 mini-projects during this course.
+>We will be building 7 projects during this course.
 
 &nbsp;
 
