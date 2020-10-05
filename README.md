@@ -28,7 +28,7 @@
 
 ### [2. Introduction to Git](Part2-git.md)
 
-### [3. Requirements]
+### 3. Requirements
 
 * Basic Python knowledge
 * Web cam
