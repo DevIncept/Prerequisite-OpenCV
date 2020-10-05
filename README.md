@@ -28,6 +28,10 @@
 
 ### [2. Introduction to Git](Part2-git.md)
 
-### [3. Setting up environment](Part3-env.md)
+### [3. Requirements]
+
+* Basic Python knowledge
+* Web cam
+* Internet
 
 ### [4. Assignment](Part4-ass.md)
