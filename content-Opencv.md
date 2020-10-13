@@ -70,7 +70,7 @@
 10. [Part9: Project:Face recognition application with Pyzml](Part9-P6.md)
 11. [Part10: Competetion-Going Deeper in Facial recognition](Part10-article.md)
 
-# Module 3
+# Module 4
 
 > 1 Competetion(Portfolio), 2 Projects 
 
